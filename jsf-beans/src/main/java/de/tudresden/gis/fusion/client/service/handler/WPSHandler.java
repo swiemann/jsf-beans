@@ -22,6 +22,7 @@ public class WPSHandler extends OWSHandler {
 	public final static String SERVICE = "WPS";
 	
 	public final static String REQUEST_DESCRIBEPROCESS = "DescribeProcess";
+	public final static String REQUEST_EXECUTE = "Execute";
 	
 	private final String PARAM_IDENTIFIER = "identifier";
 
