@@ -1,1 +1,1 @@
-# jsf-beans
+# ows-handler
